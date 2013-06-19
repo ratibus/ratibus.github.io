@@ -6,7 +6,7 @@ category: posts
 
 *TL;DR: Team culture is the backbone of your success*
 
-Few weeks ago, as I was about to leave the company I were working for for the last 6 years,
+Few weeks ago, as I was about to leave the company I had been working for for the last 6 years,
 I came to the idea of writing an article about the thing I am the most proud of having built these last years :
 my team (you will see I was not the only one to contribute to it, they did the most part). But the question,
 that could sound silly at first is: *what defines a team ?* What does it take for a group of people to become a successful team ?
