@@ -2,6 +2,7 @@
 layout: post
 title: Team culture
 category: posts
+lang: en
 ---
 
 *TL;DR: Team culture is the backbone of your success*
