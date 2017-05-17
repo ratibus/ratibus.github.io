@@ -23,7 +23,7 @@ happy at work and if you have the luxury to be able to change job easily, I thin
 question twice. Life is too short. So is having fun the only thing needed to build a team culture ? I guess that if it 
 would be that easy I would not be bothering you with such an article (remember, life is too short).
 
-##How my team's culture grew
+## How my team's culture grew
 
 In fact it is quite an organic process as Peopleware noticed. You try things, sometimes you succeed, sometimes you fail 
 but either case *you learn* and it becomes a part of your culture because you shared the experience. So I will try to show
@@ -58,7 +58,7 @@ sometimes that we were a little extremist on these quality processes. While acce
 these rules (we had pretty strong arguments to). They made us what we were (maybe in another company we would have had a
 completely different culture).
 
-##Hire right
+## Hire right
 
 As many strong other values (like trust for example), team culture is much easier to kill than to build. That is why in 
 every good management book I have read ([Peopleware](http://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams), Team Geek, etc) you will not find an easy recipe to build/grow a
@@ -93,7 +93,7 @@ you hire him. But when you hire someone you expect him to participate to the tea
 a team leader, when a new member arrives in the team, you have to be cautious about it. The team have to be open-minded
 to see the newcomer as an opportunity to grow and learn from him. The last thing you want is a team folded on itself.
 
-##Conclusion
+## Conclusion
 
 During the past few years I think my team and myself did a pretty good job building our culture, making it evolve and
 sticking to it when necessary. I hope that in my new job I will achieve the same thing (surely not taking the same form,
