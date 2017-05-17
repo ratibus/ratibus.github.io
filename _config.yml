@@ -1,7 +1,6 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /posts/:title
-auto: true
 rdiscount:
   extensions: [smart]
 
