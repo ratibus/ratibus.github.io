@@ -87,21 +87,21 @@ J'ai dû prévoir également une découpe en raison des tuyaux d'évacuation qui
 ornent le plafond de mon garage...
 Au final mon plan (sur papier car j'aime beaucoup faire mes plans de bricolage
 sur papier) a donné ceci :
-[![Plan face]({{ site.url }}/assets/moonboard/plan_face_tn.jpg)]({{ site.url }}/assets/moonboard/plan_face.jpg "Plan face")
-[![Plan profil]({{ site.url }}/assets/moonboard/plan_profil_tn.jpg)]({{ site.url }}/assets/moonboard/plan_profil.jpg "Plan profil")
+{% include lazyload_link.html url="/assets/moonboard/plan_face.jpg" src="/assets/moonboard/plan_face_tn.jpg" title="Plan face" alt="Plan face" %}
+{% include lazyload_link.html url="/assets/moonboard/plan_profil.jpg" src="/assets/moonboard/plan_profil_tn.jpg" title="Plan profil" alt="Plan profil" %}
 
 Voici également les croquis du montage qui servira à la fixation du pan sur une
 des poutres de la mezzanine :
-[![Plan articulation]({{ site.url }}/assets/moonboard/plan_articulation_tn.jpg)]({{ site.url }}/assets/moonboard/plan_articulation.jpg "Plan articulation")
+{% include lazyload_link.html url="/assets/moonboard/plan_articulation.jpg" src="/assets/moonboard/plan_articulation_tn.jpg" title="Plan articulation" alt="Plan articulation" %}
 
 L'ensemble de la structure à vide (sans grimpeur) pèse un peu plus de 200kg
 (70 pour les chevrons du chassis, 100 pour les planches, 30 pour les
 prises et 20 pour la visserie).
 Quelques calculs de mécanique (doux rappel de mes cours du lycée) m'ont permis
 de calculer qu'il faudrait un effort d'environ 600 à 800N pour relever le pan
-autour de son axe de rotation (vive le bras de levier). Pour rappel, le poids d'une masse de 1kg est
-de 9.8N. Cela est donc parfaitement compatible avec un système de palan simple
-à corde, qui sont donnés pour quelques centaines de kg.
+autour de son axe de rotation (vive le bras de levier). Pour rappel, le poids
+d'une masse de 1kg est de 9.8N. Cela est donc parfaitement compatible avec un
+système de palan simple à corde, qui sont donnés pour quelques centaines de kg.
 
 
 ## Parlons argent : le budget
