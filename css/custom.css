@@ -1,0 +1,30 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid #aaa;
+  padding: 5px;
+}
+tr:nth-child(even) {
+    background-color: #eee;
+}
+.content img {
+  display: block;
+  margin: auto;
+}
+/* Youtube fake button over the thumbnail (from http://stackoverflow.com/a/28710709) */
+.youtube-link {
+  display: block;
+  position: relative;
+  margin: auto;
+}
+.youtube-link:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(/images/play.png) no-repeat center center;
+}
