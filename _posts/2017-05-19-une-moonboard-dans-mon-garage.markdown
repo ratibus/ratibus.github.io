@@ -324,4 +324,7 @@ servi pour éviter des embûches potentielles.
 
 Bon maintenant il reste le plus difficile : **il va falloir grimper**.
 
+Des remerciements à : Denis, Geoffrey, [Nicolas](https://twitter.com/nraynaud)
+et surtout ma chérie pour sa patience infinie <3.
+
 Si vous avez des questions/remarques, n'hésitez surtout pas.
