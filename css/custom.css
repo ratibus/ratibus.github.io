@@ -9,3 +9,7 @@ table, th, td {
 tr:nth-child(even) {
     background-color: #eee;
 }
+.content img {
+  display: block;
+  margin: auto;
+}

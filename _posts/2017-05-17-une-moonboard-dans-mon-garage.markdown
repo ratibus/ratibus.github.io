@@ -87,12 +87,12 @@ J'ai dû prévoir également une découpe en raison des tuyaux d'évacuation qui
 ornent le plafond de mon garage...
 Au final mon plan (sur papier car j'aime beaucoup faire mes plans de bricolage
 sur papier) a donné ceci :
-{% include lazyload_link.html url="/assets/moonboard/plan_face.jpg" src="/assets/moonboard/plan_face_tn.jpg" title="Plan face" alt="Plan face" %}
-{% include lazyload_link.html url="/assets/moonboard/plan_profil.jpg" src="/assets/moonboard/plan_profil_tn.jpg" title="Plan profil" alt="Plan profil" %}
+{% include lazyload_link.html url="/assets/moonboard/plan_profil.jpg" src="/assets/moonboard/plan_profil_tn.jpg" alt="Plan de profil" w="3024" h="4032" tnw="400" tnh="533" group="plans" %}
+{% include lazyload_link.html url="/assets/moonboard/plan_face.jpg" src="/assets/moonboard/plan_face_tn.jpg" alt="Plan de face" w="3024" h="4032" tnw="400" tnh="533" group="plans" %}
 
 Voici également les croquis du montage qui servira à la fixation du pan sur une
 des poutres de la mezzanine :
-{% include lazyload_link.html url="/assets/moonboard/plan_articulation.jpg" src="/assets/moonboard/plan_articulation_tn.jpg" title="Plan articulation" alt="Plan articulation" %}
+{% include lazyload_link.html url="/assets/moonboard/plan_articulation.jpg" src="/assets/moonboard/plan_articulation_tn.jpg" alt="Plan de l'articulation" w="3024" h="4032" tnw="400" tnh="533" group="plans" %}
 
 L'ensemble de la structure à vide (sans grimpeur) pèse un peu plus de 200kg
 (70 pour les chevrons du chassis, 100 pour les planches, 30 pour les
@@ -102,7 +102,6 @@ de calculer qu'il faudrait un effort d'environ 600 à 800N pour relever le pan
 autour de son axe de rotation (vive le bras de levier). Pour rappel, le poids
 d'une masse de 1kg est de 9.8N. Cela est donc parfaitement compatible avec un
 système de palan simple à corde, qui sont donnés pour quelques centaines de kg.
-
 
 ## Parlons argent : le budget
 
