@@ -3,6 +3,8 @@ layout: post
 title: Une Moonboard dans mon garage
 category: posts
 lang: fr
+excerpt: "J'ai construit un pan d'escalade motorisé dans mon garage !"
+image: /assets/moonboard/done_tn.jpg
 ---
 
 *TL;DR: J'ai construit une [Moonboard](http://www.moonboard.com/) dans mon garage*
