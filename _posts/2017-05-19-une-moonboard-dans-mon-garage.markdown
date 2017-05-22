@@ -319,6 +319,9 @@ Beaucoup d'heures de conception, une trentaine d'heures de bricolage plus tard,
 **une image vaut mille mots** :
 {% include lazyload_link.html group="construction" url="/assets/moonboard/done.jpg" src="/assets/moonboard/done_tn.jpg" alt="Moonboard: done \o/" w="3024" h="4032" tnw="400" tnh="533" %}
 
+Et en video :
+{% include youtube_link.html id="8B2T0Z0h9wc" %}
+
 Je suis super content d'avoir mené le projet au bout. Beaucoup de moments de
 doute et de questionnements avant et pendant le projet. La nuit a souvent porté
 conseil. Le temps très important passé en conception/reflexion a énormément
