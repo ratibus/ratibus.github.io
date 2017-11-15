@@ -9,6 +9,8 @@ image: /assets/moonboard/done_tn.jpg
 
 *TL;DR: J'ai construit une [Moonboard](http://www.moonboard.com/) dans mon garage*
 
+[Une traduction en anglais de cet article est disponible.]({{ site.url }}/posts/i-built-a-moonboard-in-my-garage).
+
 ## Intro
 
 J'ai commencé à m'intéresser à l'escalade l'été 2015 (surtout en discutant avec
