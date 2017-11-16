@@ -1,0 +1,25 @@
+comments:
+  allowedFields: ["name", "email", "url", "message", "replying_to"]
+  branch: "master"
+  commitMessage: "New comment on the blog"
+  filename: "comment-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    timestamp:
+      type: date
+      options:
+        format: "timestamp-seconds"
+    date:
+      type: date
+      options:
+        format: "iso8601"
+  moderation: true
+  name: "blog.ratibus.net"
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "message"]
+  transforms:
+    email: md5
+  reCaptcha:
+    enabled: true
+    siteKey: "6LfG2DgUAAAAAPi2Kl1lN9jcpfiqkZK3byrwUqnI"
+    secret: "PDGa+xKqGxg208QvbTTcgiiQ5CBkb6g1zZPupmqK3llLcx+s3TEZi6SQLNj/uMzxEWTFoKX8YCZOTAPYQ5/jDHO1Z32oRz3LfaF2QkbQj4kFNCWza+NnVo1PdDCcnSoZT7jK5lEjn0u/I7Vk5z3ljZb1hWnm8g1jvYeQFznaHgk="
