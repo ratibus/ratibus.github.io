@@ -34,6 +34,42 @@ layout: layout
     {% endfor %}
   </section>
 
+  <section class="new-comment" id="new-comment">
+
+    <h3>Leave a comment</h3>
+
+    <form id="comment-form" method="post" action="https://api.staticman.net/v2/entry/ratibus/ratibus.github.io/master/comments">
+
+      <input type="hidden" name="options[redirect]" id="comment-redirect" value="{{ page.url | prepend: site.url }}">
+      <input type="hidden" name="fields[replying_to]" id="comment-replying-to" value="">
+      <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="6LfG2DgUAAAAAPi2Kl1lN9jcpfiqkZK3byrwUqnI">
+      <input type="hidden" name="options[reCaptcha][secret]" value="PDGa+xKqGxg208QvbTTcgiiQ5CBkb6g1zZPupmqK3llLcx+s3TEZi6SQLNj/uMzxEWTFoKX8YCZOTAPYQ5/jDHO1Z32oRz3LfaF2QkbQj4kFNCWza+NnVo1PdDCcnSoZT7jK5lEjn0u/I7Vk5z3ljZb1hWnm8g1jvYeQFznaHgk=">
+
+      <fieldset>
+        <label for="comment-form-message"><strong>Message</strong> (markdown allowed):</label>
+        <textarea type="text" rows="10" id="comment-form-message" name="fields[message]" required spellcheck="true"></textarea>
+      </fieldset>
+      <fieldset>
+        <label for="comment-form-name"><strong>Name</strong>:</label>
+        <input id="comment-form-name" name="fields[name]" type="text" required spellcheck="false">
+      </fieldset>
+      <fieldset>
+        <label for="comment-form-email">Email <small>(optional)</small>:</label>
+        <input id="comment-form-email" name="fields[email]" type="email" spellcheck="false">
+      </fieldset>
+      <fieldset>
+        <label for="comment-form-url">Website <small>(optional)</small>:</label>
+        <input id="comment-form-url" name="fields[url]" type="url" spellcheck="false">
+      </fieldset>
+      <div class="g-recaptcha" data-sitekey="6LfG2DgUAAAAAPi2Kl1lN9jcpfiqkZK3byrwUqnI"></div>
+
+      <button type="submit" id="comment-form-submit">Add my comment</button>
+
+    </form>
+
+  </section>
+
   <section class="meta">
     <h3>Discussion, links, and tweets</h3>
     <section class="copy">
