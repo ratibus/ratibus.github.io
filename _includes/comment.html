@@ -1,0 +1,8 @@
+<div class="comment-header">
+<span class="comment-author-avatar"><img src="https://www.gravatar.com/avatar/{{ include.comment.email }}?s=142" height="40" width="40"/></span>
+<span class="comment-author-name">{{ include.comment.name }}</span>
+<span class="comment-date">on {{ include.comment.date | date: '%B %d, %Y %R' }}</span>
+</div>
+<div class="comment-body">
+{{ include.comment.message | markdownify }}
+</div>

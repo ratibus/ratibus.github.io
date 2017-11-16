@@ -28,3 +28,30 @@ tr:nth-child(even) {
   left: 0;
   background: url(/images/play.png) no-repeat center center;
 }
+
+/* Comments */
+.comments img {
+  display: inline;
+  vertical-align: middle;
+}
+.comment-author-name {
+  font-weight: bold;
+}
+.comment-date {
+  font-style: italic;
+}
+.comment-replies {
+  padding-left: 30px;
+}
+.comment-body blockquote {
+  border-left: 6px solid #bbb;
+  margin: 0.5em 0 0.5em 1.5em;
+  background: #eee;
+  color: #222;
+}
+.comment-body p {
+  margin: 10px;
+}
+.comment-body blockquote p {
+  margin: 0;
+}
