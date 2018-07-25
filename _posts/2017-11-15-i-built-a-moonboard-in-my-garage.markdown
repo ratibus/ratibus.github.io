@@ -7,7 +7,7 @@ excerpt: "I built a motorized climbing wall in my garage!"
 image: /assets/moonboard/done_tn.jpg
 ---
 
-*TL;DR: I built a [Moonboard](http://www.moonboard.com/) climbing wall in my garage*
+*TL;DR: I built a [Moonboard](https://www.moonboard.com/) climbing wall in my garage*
 
 It is an English translation of [my french blog post about the Moonboard building process]({{ site.url }}/posts/une-moonboard-dans-mon-garage).
 
@@ -39,7 +39,7 @@ with colleagues at noon.
 ## And the Moonboard in all this?
 
 It was when I started bouldering that I discovered the concept of the 
-[Moonboard](http://www.moonboard.com/), which tries to standardize the format of 
+[Moonboard](https://www.moonboard.com/), which tries to standardize the format of 
 the climbing wall.
 
 [Ben Moon](https://en.wikipedia.org/wiki/Ben_Moon_%28rock_climber%29), a professional 
@@ -47,7 +47,7 @@ English rock climber, has designed a 40° inclined wall, with well-defined dimen
 and above all a set of climbing holds (that he sells) allowing to have a "standard" wall.
 
 The big advantage of the proposed solution is that 
-[a whole variety of climbing problems](http://www.moonboard.com/problems/) are proposed 
+[a whole variety of climbing problems](https://www.moonboard.com/) are proposed 
 by the climbers (more than 10000 problems to date), allowing a diversity of climbing, 
 without having to conceive the problems yourself.
 
