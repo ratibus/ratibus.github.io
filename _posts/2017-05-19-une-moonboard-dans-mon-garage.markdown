@@ -7,7 +7,7 @@ excerpt: "J'ai construit un pan d'escalade motorisé dans mon garage !"
 image: /assets/moonboard/done_tn.jpg
 ---
 
-*TL;DR: J'ai construit une [Moonboard](http://www.moonboard.com/) dans mon garage*
+*TL;DR: J'ai construit une [Moonboard](https://www.moonboard.com/) dans mon garage*
 
 [Une traduction en anglais de cet article est disponible.]({{ site.url }}/posts/i-built-a-moonboard-in-my-garage).
 
@@ -34,14 +34,14 @@ Les enfants ont ensuite changé de discipline à la rentrée 2016 et j'ai contin
 [bloc](https://fr.wikipedia.org/wiki/Bloc_%28escalade%29), en artificiel, et
 j'ai assez vite accroché à ce type d'escalade.
 
-L'ouverture, en mars 2017, de [Mroc 3](https://www.mroc3.com/), salle de bloc
+L'ouverture, en mars 2017, de [Mroc 3](https://laennec.mroc.fr/), salle de bloc
 uniquement, à 300m de mon travail m'a permis d'ajouter en moyenne 2 séances
 hebdomadaires supplémentaires, avec des collègues le midi.
 
 ## Et la Moonboard dans tout ça ?
 
 C'est quand j'ai commencé le bloc que j'ai découvert le concept de la
-[Moonboard](http://www.moonboard.com/), qui tente de standardiser le format
+[Moonboard](https://www.moonboard.com/), qui tente de standardiser le format
 du pan d'escalade.
 
 [Ben Moon](https://en.wikipedia.org/wiki/Ben_Moon_%28rock_climber%29), grimpeur
@@ -51,7 +51,7 @@ d'avoir un pan "standard", commun aux grimpeurs et/ou salles d'escalade qui
 s'en équipent.
 
 Le gros intérêt de la solution proposée est que l'on trouve sur son site tout
-[un ensemble de problèmes d'escalade](http://www.moonboard.com/problems/)
+[un ensemble de problèmes d'escalade](https://www.moonboard.com/)
 proposés par les grimpeurs (+ de 7000 problèmes à ce jour), permettant une
 diversité de grimpe, sans avoir à se poser la problématique de concevoir des
 problèmes soi-même.
