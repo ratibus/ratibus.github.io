@@ -32,7 +32,7 @@ on weekends, especially at Le Mur de Lyon (and sometimes [Azium](http://azium.fr
 At the end of 2016, we started to test [bouldering](https://en.wikipedia.org/wiki/Bouldering),
 and I quickly hooked to this form of climbing.
 
-The opening in March 2017 of [Mroc 3](https://www.mroc3.com/), a bouldering only gym, 
+The opening in March 2017 of [Mroc 3](https://laennec.mroc.fr/), a bouldering only gym, 
 300 meters away from my work allowed me to add an average of 2 additional weekly sessions, 
 with colleagues at noon.
 
@@ -59,7 +59,7 @@ to know if (and how) I could build one.
 Given the size of the beast (3.15 meters high for 2.44 meters wide and about 3 meters deep), 
 I had to find a location. My garage seemed the most suitable place. It is a double closed 
 box with a respectable height of 3m. After several aborted ideas of location, 
-I decided to push further the idea of ​​making a Moonboard hanging on the mezzanine of the 
+I decided to push further the idea of making a Moonboard hanging on the mezzanine of the 
 garage ([which I built in late 2013]({{ site.url }}/assets/moonboard/mezzanine.jpg)) 
 and articulated to be stored under the mezzanine when I do not use it so that I can still
 park my car, which is the main goal of a garage after all 😁
