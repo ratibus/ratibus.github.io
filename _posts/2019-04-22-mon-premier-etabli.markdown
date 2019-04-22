@@ -4,7 +4,7 @@ title: Mon premier établi
 category: posts
 lang: fr
 excerpt: "Mon premier établi. Non, je ne vais pas vous parler d'un jouet Fisher-Price :)"
-image: /assets/mon-premier-etabli/etabli_termine_tn.jpg
+image: /assets/mon-premier-etabli/etabli-termine_tn.jpg
 date: 2019-04-22 22:00:00 +0200
 ---
 
