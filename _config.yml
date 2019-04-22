@@ -6,8 +6,6 @@ kramdown:
 
 highlighter: rouge
 permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
 
 name: ratibus' blog
 author: Eric Lemoine
