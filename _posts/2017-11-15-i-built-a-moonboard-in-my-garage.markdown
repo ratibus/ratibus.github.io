@@ -3,6 +3,7 @@ layout: post
 title: A Moonboard climbing wall in my garage
 category: posts
 lang: en
+tags: [woodworking, climbing]
 excerpt: "I built a motorized climbing wall in my garage!"
 image: /assets/moonboard/done_tn.jpg
 ---

@@ -1,0 +1,18 @@
+---
+layout: layout
+title: "Posts by tags"
+---
+
+<section class="content">
+    <h1>{{ site.name }}</h1>
+
+    {% for tag in site.tags %}
+    <h3 id="tag-{{ tag[0] }}">{{ tag[0] }}</h3>
+    <ul class="listing">
+        {% for post in tag[1] %}
+        <li><span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }} [{{ post.lang }}]</a></li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+</section>

@@ -3,6 +3,7 @@ layout: post
 title: Un lit mezzanine pour ma fille
 category: posts
 lang: fr
+tags: [woodworking]
 excerpt: "J'ai construit un lit mezzanine en bois massif pour ma fille :)"
 image: /assets/lit-mezzanine/lit_termine_tn.jpg
 ---
