@@ -16,14 +16,20 @@ layout: layout
   <section class="comments">
     <h3>Comments</h3>
 
-    {% assign comments = site.data.comments[page.slug] | where:"replying_to","" | sort: "date" %}
+    {% assign comments = site.data.comments[page.slug] | where:"replying_to","" %}
+    {% if comments %}
+        {% assign comments = comments | sort: "date" %}
+    {% endif %}
 
     {% for comment in comments %}
     <div class="comment">
       {% include comment.html comment=comment %}
 
       <div class="comment-replies">
-        {% assign replies = site.data.comments[page.slug] | where:"replying_to",comment._id | sort: "date" %}
+        {% assign replies = site.data.comments[page.slug] | where:"replying_to",comment._id %}
+        {% if replies %}
+            {% assign replies = replies | sort: "date" %}
+        {% endif %}
 
         {% for reply in replies %}
           {% include comment.html comment=reply %}
