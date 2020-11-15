@@ -1,7 +1,13 @@
-jekyll:
-    image: jekyll/jekyll:pages
-    command: jekyll serve --watch --incremental
-    ports:
-        - 4000:4000
-    volumes:
-        - .:/srv/jekyll
+version: "3.4"
+
+services:
+    jekyll:
+        image: jekyll/jekyll:pages
+        command: jekyll serve --watch --incremental
+        ports:
+            - 4000:4000
+        volumes:
+            - .:/srv/jekyll
+        environment:
+            JEKYLL_UID: "${CURRENT_UID:-1001}"
+            JEKYLL_GID: "${CURRENT_GID:-1001}"
