@@ -17,7 +17,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-  <meta property="og:image" content="{% if page.image %}{% if page.image contains "https://" %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ site.gravatar_url }}?s=400{% endif %}">
+  <meta property="og:image" content="{% if page.image contains "https://" %}{{ page.image }}{% elsif page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.gravatar_url }}?s=400{% endif %}">
 
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.name }}">
